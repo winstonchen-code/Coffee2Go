@@ -72,7 +72,11 @@ img {
     height: 50px;
 }
 
-
+.navbar-nav-left {
+    text-transform: uppercase;
+    flex: 1;
+    margin-left: 20px;
+}
 
 .navbar-nav-right img {
     height: 20px;
